@@ -1,0 +1,5 @@
+VIM : Editor de texto por línea de comandos
+
+i : Cambia el editor a modo insert(para escribir)
+
+esc + :wq  : Para salir del archivo y guardarlo
