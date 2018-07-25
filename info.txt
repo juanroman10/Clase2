@@ -3,3 +3,12 @@ VIM : Editor de texto por línea de comandos
 i : Cambia el editor a modo insert(para escribir)
 
 esc + :wq  : Para salir del archivo y guardarlo
+
+
+master : Es el codigo que esta en produccion y que ya paso por desarrollo y testing 
+
+* test : Es el codigo que salio de desarrollo y esta listo para ser testeado para pasar a produccion 
+
+dev - development - desarrollo : Es el codigo que esta en desarrollo y puede diferir de loq ue esta en produccion
+
+funcionalidad - feature : Es el codigo unitario por funcionalidad
